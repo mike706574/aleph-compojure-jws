@@ -1,0 +1,14 @@
+/target
+/lib
+/classes
+/checkouts
+pom.xml
+/resources/private
+*.jar
+*.class
+.lein-deps-sum
+.lein-failures
+.lein-plugins
+.lein-env
+.nrepl-port
+.lein-repl-history
