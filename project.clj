@@ -1,4 +1,4 @@
-(defproject mike/aleph-and-compojure "0.0.1-SNAPSHOT"
+(defproject mike/aleph-compojure-jws "0.0.1-SNAPSHOT"
   :dependencies [[org.clojure/clojure "1.8.0"]
                  [com.taoensso/timbre "4.8.0"]
                  [com.stuartsierra/component "0.3.1"]
